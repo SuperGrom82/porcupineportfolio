@@ -5,14 +5,14 @@ body {
 	font: 100%/1.4 Luminari, Arial, Helvetica, sans-serif;
 }
 .homePage {
-	background: #646DBD;
+	background: #222222;
 }
 .container {
 	width: 960px;
 	margin: 0 auto;
 }
 .header {
-	background: #646DBD;
+	background: #222222;
 	text-align: center;
 	margin: 0px;
 	padding: 5;
